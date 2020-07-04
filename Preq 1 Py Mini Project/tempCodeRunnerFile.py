@@ -1,0 +1,1 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sonakshi_Sinha_-_IIFA_2017_Green_Carpet_%2835586491213%29_%28cropped%29.jpg/220px-Sonakshi_Sinha_-_IIFA_2017_Green_Carpet_%2835586491213%29_%28cropped%29.jpg
