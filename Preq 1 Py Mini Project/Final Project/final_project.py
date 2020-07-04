@@ -1,6 +1,6 @@
 import helper_final_project
 import fresh_tomatoes
-
+"""This Program makes the instance of Movie class and show them with html file"""
 
 Sonakshi_sinha1 = helper_final_project.Movie("AKIRA", "The Story of a Girl.",
                                              "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhPGalyXO4ffKmoemaTXb_ijpNzv-M6qll2Q&usqp=CAU",
